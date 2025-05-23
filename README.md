@@ -1,6 +1,7 @@
 # testing-some-idea
 
 
+<<<<<<< HEAD
 #RAmi
 
 
@@ -9,4 +10,6 @@
 
 
 
+=======
+>>>>>>> 795ad302802d7f3a238f273a5b8f0418b602e91e
 #RAmi
