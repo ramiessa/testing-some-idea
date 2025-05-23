@@ -1,6 +1,7 @@
 # testing-some-idea
 
 
+<<<<<<< HEAD
 #RAmi
 
 
